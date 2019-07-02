@@ -24,6 +24,17 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/MySQL-Books/blob/master/mysql(17).pdf" style="text-decoration:none;">Sams Teach Yourself MySQL in 21 Days</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/MySQL-Books/blob/master/mysql(18).pdf" style="text-decoration:none;">MySQL Crash Course</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/MySQL-Books/blob/master/mysql(19).pdf" style="text-decoration:none;">MySQL Group Replication and MySQL InnoDB Cluster</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/MySQL-Books/blob/master/mysql(20).pdf" style="text-decoration:none;">MySQL for Python</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/MySQL-Books/blob/master/mysql(21).pdf" style="text-decoration:none;">Creating your MySQL Database: Practical Design Tips and Techniques</a></b></li>
+
+        <li><b><a target="_blank" href="https://github.com/manjunath5496/MySQL-Books/blob/master/mysql(22).pdf" style="text-decoration:none;">Expert MySQL</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/MySQL-Books/blob/master/mysql(23).pdf" style="text-decoration:none;">High Availability MySQL Cookbook</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/MySQL-Books/blob/master/mysql(24).pdf" style="text-decoration:none;">MySQL Admin Cookbook</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/MySQL-Books/blob/master/mysql(25).pdf" style="text-decoration:none;">MySQL Reference Manual</a></b></li>
 
 
 </ul>

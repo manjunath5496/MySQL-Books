@@ -18,10 +18,10 @@
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/MySQL-Books/blob/master/mysql(12).pdf" style="text-decoration:none;">MySQL Tutorial</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/MySQL-Books/blob/master/mysql(13).pdf" style="text-decoration:none;">MySQL: Pocket Reference</a></b></li>  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/MySQL-Books/blob/master/mysql(14).pdf" style="text-decoration:none;">Understanding MySQL Internals</a></b></li>  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/MySQL-Books/blob/master/mysql(15).pdf" style="text-decoration:none;">Sam's teach yourself SQL in 24 hours</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/MySQL-Books/blob/master/mysql(15).pdf" style="text-decoration:none;">Sams teach yourself SQL in 24 hours</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/MySQL-Books/blob/master/mysql(16).pdf" style="text-decoration:none;">SQL, The Complete Reference</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/MySQL-Books/blob/master/mysql(17).pdf" style="text-decoration:none;">Sam's Teach Yourself MySQL in 21 Days</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/MySQL-Books/blob/master/mysql(17).pdf" style="text-decoration:none;">Sams Teach Yourself MySQL in 21 Days</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/MySQL-Books/blob/master/mysql(18).pdf" style="text-decoration:none;">MySQL Crash Course</a></b></li>
 
 
